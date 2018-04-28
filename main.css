@@ -4,6 +4,10 @@ html, body{
 
 input, button, submit { border:none; }
 
+.screen-equation, .screen-numbers, .calc-btn{
+	font-family: 'Orbitron', sans-serif;
+}
+
 .container-fluid{
 	background-color: #2D4571;
 }
@@ -51,7 +55,7 @@ input, button, submit { border:none; }
 
 .screen-equation{
 
-	
+
 margin-top: 20%;
 }
 
