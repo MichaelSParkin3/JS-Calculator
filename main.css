@@ -1,7 +1,13 @@
 html, body{
     background-color: #2D4571;
 }
-
+button:focus {outline:0;}
+.btn:focus {
+  outline: none;
+}
+.calc-btn:focus {
+  outline: none;
+}
 input, button, submit { border:none; }
 
 .screen-equation, .screen-numbers, .calc-btn{
